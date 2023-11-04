@@ -1,5 +1,4 @@
 # 2023
-[NepCTF](https://github.com/0RAYS/WriteUp/tree/main/2023/NepCTF)
 
 [WMCTF](https://github.com/0RAYS/WriteUp/tree/main/2023/WMCTF)
 
