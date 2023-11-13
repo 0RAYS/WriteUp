@@ -14,4 +14,6 @@
 
 [ACTF](https://github.com/0RAYS/WriteUp/tree/main/2023/ACTF)
 
-[浙江省省赛初赛](https://github.com/0RAYS/WriteUp/tree/main/2023/%E6%B5%99%E6%B1%9F%E7%9C%81%E8%B5%9B%E5%88%9D%E8%B5%9B)
+[浙江省赛初赛](https://github.com/0RAYS/WriteUp/tree/main/2023/%E6%B5%99%E6%B1%9F%E7%9C%81%E8%B5%9B%E5%88%9D%E8%B5%9B)
+
+[浙江省赛决赛](https://github.com/0RAYS/WriteUp/tree/main/2023/%E6%B5%99%E6%B1%9F%E7%9C%81%E8%B5%9B%E5%86%B3%E8%B5%9B)
