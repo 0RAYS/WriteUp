@@ -19,3 +19,5 @@
 [浙江省赛决赛](https://github.com/0RAYS/WriteUp/tree/main/2023/%E6%B5%99%E6%B1%9F%E7%9C%81%E8%B5%9B%E5%86%B3%E8%B5%9B)
 
 [TPCTF](https://github.com/0RAYS/WriteUp/tree/main/2023/TPCTF)
+
+[古剑山](https://github.com/0RAYS/WriteUp/tree/main/2023/%E5%8F%A4%E5%89%91%E5%B1%B1)
