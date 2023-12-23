@@ -23,3 +23,5 @@
 [古剑山](https://github.com/0RAYS/WriteUp/tree/main/2023/%E5%8F%A4%E5%89%91%E5%B1%B1)
 
 [强网杯](https://github.com/0RAYS/WriteUp/tree/main/2023/%E5%BC%BA%E7%BD%91%E6%9D%AF)
+
+[安浔杯](https://github.com/0RAYS/WriteUp/tree/main/2023/%E5%AE%89%E6%B5%94%E6%9D%AF)
