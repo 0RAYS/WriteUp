@@ -197,7 +197,7 @@ img3.save("flag3.png")
 ```python
 -------------------------
 ChatGPT Output:
-```cpp
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
@@ -259,7 +259,7 @@ int main() {
     return 0;
 }
 ```
-```
+
 ![](static/IkqtbKTesodZcOxjkqHcdhQ0nMe.png)
 
 # Reverse
