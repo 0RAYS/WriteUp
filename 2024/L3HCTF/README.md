@@ -259,50 +259,7 @@ int main() {
     return 0;
 }
 ```
-
-测试数据：
-输入：
-2 1 1
-4
-5 A
-6 B
-3 B
-7 B
-输出：
-3 14
-
-输入：
-0 0 5
-5
-1 A
-2 A
-3 A
-4 A
-5 A
-输出：
-0 0
-
-输入：
-10 10 10
-5
--
-
-Test Case:1        Accepted
-Test Case:2        Accepted
-Test Case:3        Accepted
-Test Case:4        Accepted
-Test Case:5        Accepted
-Test Case:6        Accepted
-Test Case:7        Accepted
-Test Case:8        Accepted
-Test Case:9        Accepted
-Test Case:10        Accepted
-Flag is L3HCTF{}
-
 ```
-
-
-
 ![](static/IkqtbKTesodZcOxjkqHcdhQ0nMe.png)
 
 # Reverse
